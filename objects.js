@@ -3,6 +3,6 @@ var playlist = {
   'My Bloody Valentine': 'Sometimes'};
 
 function updatePlaylist(playlist, artistName, songTitle){
-  obj
+  playlist
   return updatePlaylist 
 }
